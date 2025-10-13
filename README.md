@@ -2,6 +2,7 @@
 Welcome to my SQL Learning Journey repository! This repository is a comprehensive collection of scripts, exercises, and mini-projects I am using to learn SQL—from beginner to advanced. The goal is to track my progress, practice SQL, and build a reference library that others can also benefit from.
 This roadmap shows the structured progression I’m following, from basics to real-world projects:
 
+
 1️⃣ Beginner
 
 Introduction to databases & SQL
@@ -20,6 +21,7 @@ Inserting, updating, deleting data
 
 Handling NULL values and constraints
 
+
 2️⃣ Intermediate
 
 Complex joins: INNER, LEFT, RIGHT, FULL OUTER
@@ -33,6 +35,7 @@ Advanced functions (string, date, numeric)
 Filtering with LIKE, wildcards, IN, BETWEEN
 
 Creating and using Views
+
 
 3️⃣ Advanced
 
@@ -48,6 +51,7 @@ Database design best practices
 
 Performance tuning for large datasets
 
+
 4️⃣ Projects & Real-World Practice
 
 Mini-projects using sample databases
@@ -58,6 +62,8 @@ Combining multiple SQL concepts in practical scenarios
 
 Preparing for real-world SQL challenges or interviews
 
+
+
 🚀 Goals
 
 Learn SQL comprehensively
@@ -67,6 +73,8 @@ Track progress and build a reference library
 Apply SQL knowledge to real-world datasets and projects
 
 Share my journey with others who want to learn SQL
+
+
 
 🤝 Contributions
 
