@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,BirthDate,Gender,Salary,ManagerID
+1,Frank,Lee,Marketing,12/5/1988,M,55000,
+2,Kevin,Brown,Marketing,11/25/1972,M,65000,1
+3,Mary,,Sales,1/5/1986,F,75000,1
+4,Michael,Ray,Sales,2/10/1977,M,90000,2
+5,Carol,Baker,Sales,2/11/1982,F,55000,3
